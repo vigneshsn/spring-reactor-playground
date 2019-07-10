@@ -1,2 +1,2 @@
-# spring-reactor-playground
-Demo project with Spring 5 reactive streams
+#spring reactive demo
+An attemp to understand Flux and Mono.
